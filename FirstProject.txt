@@ -4,3 +4,4 @@ Belajar:
 - Javascript
 - Bootstrap
 - UI/UX Design
+- SQL
