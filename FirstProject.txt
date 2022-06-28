@@ -1,0 +1,6 @@
+Belajar:
+- HTML
+- CSS
+- Javascript
+- Bootstrap
+- UI/UX Design
